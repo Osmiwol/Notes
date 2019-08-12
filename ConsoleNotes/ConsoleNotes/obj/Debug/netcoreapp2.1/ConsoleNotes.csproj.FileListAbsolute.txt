@@ -1,0 +1,11 @@
+C:\Users\Player\source\repos\ConsoleNotes\ConsoleNotes\bin\Debug\netcoreapp2.1\ConsoleNotes.deps.json
+C:\Users\Player\source\repos\ConsoleNotes\ConsoleNotes\bin\Debug\netcoreapp2.1\ConsoleNotes.runtimeconfig.json
+C:\Users\Player\source\repos\ConsoleNotes\ConsoleNotes\bin\Debug\netcoreapp2.1\ConsoleNotes.runtimeconfig.dev.json
+C:\Users\Player\source\repos\ConsoleNotes\ConsoleNotes\bin\Debug\netcoreapp2.1\ConsoleNotes.dll
+C:\Users\Player\source\repos\ConsoleNotes\ConsoleNotes\bin\Debug\netcoreapp2.1\ConsoleNotes.pdb
+C:\Users\Player\source\repos\ConsoleNotes\ConsoleNotes\obj\Debug\netcoreapp2.1\ConsoleNotes.csprojAssemblyReference.cache
+C:\Users\Player\source\repos\ConsoleNotes\ConsoleNotes\obj\Debug\netcoreapp2.1\ConsoleNotes.csproj.CoreCompileInputs.cache
+C:\Users\Player\source\repos\ConsoleNotes\ConsoleNotes\obj\Debug\netcoreapp2.1\ConsoleNotes.AssemblyInfoInputs.cache
+C:\Users\Player\source\repos\ConsoleNotes\ConsoleNotes\obj\Debug\netcoreapp2.1\ConsoleNotes.AssemblyInfo.cs
+C:\Users\Player\source\repos\ConsoleNotes\ConsoleNotes\obj\Debug\netcoreapp2.1\ConsoleNotes.dll
+C:\Users\Player\source\repos\ConsoleNotes\ConsoleNotes\obj\Debug\netcoreapp2.1\ConsoleNotes.pdb
