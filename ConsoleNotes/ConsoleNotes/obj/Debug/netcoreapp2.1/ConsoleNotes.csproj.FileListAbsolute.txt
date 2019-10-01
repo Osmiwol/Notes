@@ -11,3 +11,14 @@ C:\Users\Player\source\repos\ConsoleNotes\ConsoleNotes\obj\Debug\netcoreapp2.1\C
 C:\Users\Player\source\repos\ConsoleNotes\ConsoleNotes\obj\Debug\netcoreapp2.1\ConsoleNotes.pdb
 C:\_z\Repos\Osmiwol\Notes\ConsoleNotes\ConsoleNotes\obj\Debug\netcoreapp2.1\ConsoleNotes.AssemblyInfoInputs.cache
 C:\_z\Repos\Osmiwol\Notes\ConsoleNotes\ConsoleNotes\obj\Debug\netcoreapp2.1\ConsoleNotes.AssemblyInfo.cs
+C:\_z\Repos\Osmiwol\Notes\ConsoleNotes\ConsoleNotes\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\_z\Repos\Osmiwol\Notes\ConsoleNotes\ConsoleNotes\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\_z\Repos\Osmiwol\Notes\ConsoleNotes\ConsoleNotes\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\_z\Repos\Osmiwol\Notes\ConsoleNotes\ConsoleNotes\bin\Debug\netcoreapp2.1\ConsoleNotes.deps.json
+C:\_z\Repos\Osmiwol\Notes\ConsoleNotes\ConsoleNotes\bin\Debug\netcoreapp2.1\ConsoleNotes.runtimeconfig.json
+C:\_z\Repos\Osmiwol\Notes\ConsoleNotes\ConsoleNotes\bin\Debug\netcoreapp2.1\ConsoleNotes.runtimeconfig.dev.json
+C:\_z\Repos\Osmiwol\Notes\ConsoleNotes\ConsoleNotes\bin\Debug\netcoreapp2.1\ConsoleNotes.dll
+C:\_z\Repos\Osmiwol\Notes\ConsoleNotes\ConsoleNotes\bin\Debug\netcoreapp2.1\ConsoleNotes.pdb
+C:\_z\Repos\Osmiwol\Notes\ConsoleNotes\ConsoleNotes\obj\Debug\netcoreapp2.1\ConsoleNotes.dll
+C:\_z\Repos\Osmiwol\Notes\ConsoleNotes\ConsoleNotes\obj\Debug\netcoreapp2.1\ConsoleNotes.pdb
+C:\_z\Repos\Osmiwol\Notes\ConsoleNotes\ConsoleNotes\obj\Debug\netcoreapp2.1\ConsoleNotes.csprojAssemblyReference.cache
