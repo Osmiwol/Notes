@@ -9,3 +9,5 @@ C:\Users\Player\source\repos\ConsoleNotes\ConsoleNotes\obj\Debug\netcoreapp2.1\C
 C:\Users\Player\source\repos\ConsoleNotes\ConsoleNotes\obj\Debug\netcoreapp2.1\ConsoleNotes.AssemblyInfo.cs
 C:\Users\Player\source\repos\ConsoleNotes\ConsoleNotes\obj\Debug\netcoreapp2.1\ConsoleNotes.dll
 C:\Users\Player\source\repos\ConsoleNotes\ConsoleNotes\obj\Debug\netcoreapp2.1\ConsoleNotes.pdb
+C:\_z\Repos\Osmiwol\Notes\ConsoleNotes\ConsoleNotes\obj\Debug\netcoreapp2.1\ConsoleNotes.AssemblyInfoInputs.cache
+C:\_z\Repos\Osmiwol\Notes\ConsoleNotes\ConsoleNotes\obj\Debug\netcoreapp2.1\ConsoleNotes.AssemblyInfo.cs
